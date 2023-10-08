@@ -1,0 +1,42 @@
+.head{color: #323f4b}
+.card-container1{margin:10px;
+border-top-left-radius:5px ;
+border-top-right-radius:5px;
+border-bottom-left-radius:5px;
+border-bottom-right-radius:5px;}
+.card1{background-color:#967d219;
+	padding:20px;
+       }
+       .margin{margin: 10px
+       	padding:20px;}
+.card2{
+	background-color: #3ebd93;
+    text-align:center;
+    padding:10px;
+    height:160px;
+    width:140px;
+    margin:10px;
+    border-radius:10px;
+
+}
+.card3{
+	background-color: #e668a7;
+    text-align:center;
+    padding:10px;
+    height:160px;
+    width:140px;
+    margin:10px;
+    border-radius:10px;
+
+}
+.card4{
+	background-color: #a368fc;
+    text-align:center;
+    padding:10px;
+    height:160px;
+    width:140px;
+    margin:10px;
+    border-radius:10px;
+
+}
+.card5{background-color: #e12d3919;}
